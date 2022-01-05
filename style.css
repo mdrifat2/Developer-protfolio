@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-eidth{
     width: 50%;
@@ -32,5 +33,11 @@ width: 80%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.Dream-Big{ 
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }   
+
     
 
